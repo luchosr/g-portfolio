@@ -12,11 +12,18 @@ class Header extends React.Component {
             <img src={avatar} alt="" />
           </a>
           <h1>
-            <strong>I am Strata</strong>, a super simple
+            <strong>Hi! I'm Luciano</strong>, a Web enthusiast and
             <br />
-            responsive site template freebie
+            &nbsp; passionate for new internet technologies &nbsp;
             <br />
-            crafted by <a href="http://html5up.net">HTML5 UP</a>.
+            like{' '}
+            <a href="https://en.wikipedia.org/wiki/Blockchain">
+              Blockchain
+            </a>{' '}
+            and <br /> models of{' '}
+            <a href="https://www.researchgate.net/publication/315919685_Blockchain_technology_and_decentralized_governance_Is_the_state_still_necessary">
+              Decentralized Governance.
+            </a>
           </h1>
         </div>
         <Footer />
